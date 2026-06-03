@@ -5,6 +5,9 @@ Eu escolhi Fundamentos de Redes de Computadores, uma matéria da faculdade, que 
 vídeos, questões e mapa mentais,meu principal objetivo foi utilizar dessas possibilidades para testar o que eu já sabia do assunto, entender e absorver o que eu ainda tinha dúvida tanto para a prova, quanto para meu conhecimento futuro.
 
 FONTES:
-As principais fontes que eu utilizei foi os pdf's que cada tema da matéria possui e vídeos do curso de redes de computadores do professor Gustavo Guanabara.
+As principais fontes que eu utilizei foi os pdf's que cada tema da matéria possui e vídeos do curso de redes de computadores do professor Gustavo Guanabara:
+https://www.youtube.com/watch?v=q65kHIvtWxg&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&index=8&pp=iAQB0gcJCSgLAYcqIYzv;
+https://www.youtube.com/watch?v=ee5htpGdWHY&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&index=9&pp=iAQB0gcJCSgLAYcqIYzv;
+https://www.youtube.com/watch?v=_826vVEokj8&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&index=6&pp=iAQB
 
 
