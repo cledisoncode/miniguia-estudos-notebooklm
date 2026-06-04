@@ -33,6 +33,7 @@ RESPOSTA:<br>
     .
     Interface: Ponto de comunicação entre camadas adjacentes
     .
+    <br><br>
   2. Encapsulamento e PDUs (Protocol Data Units)
     Questões clássicas pedem para identificar o nome do dado em cada camada durante o processo de encapsulamento (quando o dado desce na origem, ganhando cabeçalhos)
     .
@@ -46,6 +47,7 @@ RESPOSTA:<br>
     .
     Física: Bits
     .
+    <br><br>
   3. Camada de Transporte: TCP vs. UDP
     A comparação entre esses dois protocolos é um dos temas preferidos das bancas
     .
@@ -63,6 +65,7 @@ RESPOSTA:<br>
     .
     Uso: Streaming de vídeo/áudio, VoIP, consultas DNS
     .
+    <br><br>
   4. Camada de Rede: Endereçamento e Protocolos de Controle
     Foque em como os dados encontram o caminho e como os endereços são geridos.
     IPv4 vs. IPv6: O IPv4 tem 32 bits; o IPv6 tem 128 bits (criado para resolver a escassez de endereços)
@@ -78,6 +81,7 @@ RESPOSTA:<br>
     .
     ICMP: Utilizado para relatar erros e sinais de controle (base do comando ping)
     .
+    <br><br>
   5. Camada de Enlace e Dispositivos
     As provas costumam testar se você sabe em qual camada cada equipamento opera
     .
@@ -87,6 +91,7 @@ RESPOSTA:<br>
     .
     Controle de Acesso ao Meio (MAC): Protocolos como CSMA/CD (usado na Ethernet para detectar colisões) e ALOHA (permite colisões, mas requer retransmissão) são temas comuns
     .
+    <br><br>
     6. Segurança da Informação (Tríade CID)
     Muitas questões focam nos princípios básicos e tipos de ataques
     .
@@ -106,6 +111,7 @@ RESPOSTA:<br>
     . Se a questão falar em "roteamento" ou "entrega host a host", a resposta é Camada de Rede
     . Se falar em "bits em quadros" ou "nó a nó", é Camada de Enlace  
 ""
+<br><br>
 
 ANÁLISE DA RESPOSTA RECEBIDA:<br>
 A primeira coisa que eu solicitei para a ia foi uma análise dos assuntos que mais aparecem nas questões de redes de computadores e fazer um resumo, ela me apresentou somente 6 tópicos de assuntos de redes, eu não havia especificado a qauntidade. O resumo foi bem direto e claro e muito bem explicativo, com eles eu  conseguir entender melhor algumas dúvidas que antes eu tinha principlamente sobre a Camada de Rede.
