@@ -18,7 +18,8 @@ PRIMEIRO PROMPT: " então preciso que você selecione os assuntos mais abordados
 
 RESPOSTA:<br>
 
-"" 1. Modelos de Referência: OSI vs. TCP/IP
+"" <br>
+1. Modelos de Referência: OSI vs. TCP/IP
     Este é o assunto mais básico e obrigatório. As provas costumam cobrar a ordem das camadas e a diferença de funções entre elas.
     Modelo OSI (7 camadas): É um modelo de referência teórico
     . A ordem (de cima para baixo) é: Aplicação, Apresentação, Sessão, Transporte, Rede, Enlace e Física
@@ -109,7 +110,8 @@ RESPOSTA:<br>
     .
     Dica para a prova: Sempre que ler sobre "entrega confiável processo a processo", pense em TCP (Transporte)
     . Se a questão falar em "roteamento" ou "entrega host a host", a resposta é Camada de Rede
-    . Se falar em "bits em quadros" ou "nó a nó", é Camada de Enlace  
+    . Se falar em "bits em quadros" ou "nó a nó", é Camada de Enlace
+     <br>  
 ""
 <br><br>
 
@@ -120,7 +122,9 @@ A primeira coisa que eu solicitei para a ia foi uma análise dos assuntos que ma
 SEGUNDO PROMPT: "faça 10 perguntas baseadas nos tópicos que você me apresentou"
 
 RESPOSTA:<br>
-  "" Com base nos temas essenciais de redes de computadores discutidos e no material fornecido, aqui estão 10 perguntas fundamentais para o seu estudo, focadas no que costuma ser cobrado em provas:Perguntas de Revisão<br>
+  "" 
+  <br>
+  Com base nos temas essenciais de redes de computadores discutidos e no material fornecido, aqui estão 10 perguntas fundamentais para o seu estudo, focadas no que costuma ser cobrado em        provas:Perguntas de Revisão<br>
   
   1.Modelos de Referência: Quantas camadas possui o modelo OSI e qual camada da arquitetura TCP/IP absorve as funções de Apresentação e Sessão?<br><br>
   2.Encapsulamento: Qual é o nome técnico dado à Unidade de Dados de Protocolo (PDU) quando a informação está na camada de Transporte e na camada de Rede?<br><br>
