@@ -146,7 +146,9 @@ DIFICULDADE COM AS PERGUNTAS: A segunda coisa que eu pedi foi pra ela fazer perg
 TERCEIRO PROMPT: "faca perguntas baseadas em situacoes problemas"
 
 RESPOSTA: <br>
-"" 1. Desempenho em Aplicações de Tempo Real<br>
+""
+<br>
+1. Desempenho em Aplicações de Tempo Real<br>
 Situação: Um usuário está jogando uma partida online e percebe que, embora a conexão não caia, o "lag" (latência) está muito alto. Ao mesmo tempo, ele inicia o download de um arquivo grande, que ocorre sem erros, mas de forma mais lenta. Pergunta: Quais protocolos da camada de transporte são mais adequados para cada uma dessas atividades (jogo e download) e por que uma aplicação pode preferir um protocolo que não garante a entrega de todos os pacotes?
 <br>
 <br>
