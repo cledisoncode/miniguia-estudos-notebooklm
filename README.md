@@ -116,11 +116,12 @@ RESPOSTA:<br>
 ANÁLISE DA RESPOSTA RECEBIDA:<br>
 A primeira coisa que eu solicitei para a ia foi uma análise dos assuntos que mais aparecem nas questões de redes de computadores e fazer um resumo, ela me apresentou somente 6 tópicos de assuntos de redes, eu não havia especificado a qauntidade. O resumo foi bem direto e claro e muito bem explicativo, com eles eu  conseguir entender melhor algumas dúvidas que antes eu tinha principlamente sobre a Camada de Rede.
 
+<br><br>
 SEGUNDO PROMPT: "faça 10 perguntas baseadas nos tópicos que você me apresentou"
 
 RESPOSTA:<br>
   "" Com base nos temas essenciais de redes de computadores discutidos e no material fornecido, aqui estão 10 perguntas fundamentais para o seu estudo, focadas no que costuma ser cobrado em provas:
-  Perguntas de Revisão
+  Perguntas de Revisão<br>
   1.Modelos de Referência: Quantas camadas possui o modelo OSI e qual camada da arquitetura TCP/IP absorve as funções de Apresentação e Sessão?<br>
   2.Encapsulamento: Qual é o nome técnico dado à Unidade de Dados de Protocolo (PDU) quando a informação está na camada de Transporte e na camada de Rede?<br>
   3.Transporte (TCP vs. UDP): Qual é a principal diferença entre o protocolo TCP e o UDP em termos de confiabilidade e estabelecimento de conexão?<br>
@@ -134,10 +135,10 @@ RESPOSTA:<br>
 
   ""
 
-ANÁLISE DA RESPOSTA RECEBIDA:<br>
-DIFICULDADE COM AS PERGUNTAS
-A segunda coisa que eu pedi foi pra ela fazer perguntas baseadas no resumo que ela me apresentou, só que dessa vez eu especifiquei uma quantidade exata, eu percebi que as perguntas que ela faz são voltadas mais para fazer a pessoa decorar, eu estava esperando perguntas baseadas em situações problemas, então no terceiro prompt, eu especifiquei o tipo de pergunta que eu gostaria.
+ANÁLISE DA RESPOSTA RECEBIDA:<br><br>
+DIFICULDADE COM AS PERGUNTAS: A segunda coisa que eu pedi foi pra ela fazer perguntas baseadas no resumo que ela me apresentou, só que dessa vez eu especifiquei uma quantidade exata, eu percebi que as perguntas que ela faz são voltadas mais para fazer a pessoa decorar, eu estava esperando perguntas baseadas em situações problemas, então no terceiro prompt, eu especifiquei o tipo de pergunta que eu gostaria.
 
+<br><br>
 TERCEIRO PROMPT: "faca perguntas baseadas em situacoes problemas"
 
 RESPOSTA: <br>
