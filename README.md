@@ -19,7 +19,7 @@ PRIMEIRO PROMPT: " então preciso que você selecione os assuntos mais abordados
 RESPOSTA:<br>
 
 "" <br>
-1. Modelos de Referência: OSI vs. TCP/IP
+1. Modelos de Referência: OSI vs. TCP/IP <br>
     Este é o assunto mais básico e obrigatório. As provas costumam cobrar a ordem das camadas e a diferença de funções entre elas.
     Modelo OSI (7 camadas): É um modelo de referência teórico
     . A ordem (de cima para baixo) é: Aplicação, Apresentação, Sessão, Transporte, Rede, Enlace e Física
@@ -35,7 +35,7 @@ RESPOSTA:<br>
     Interface: Ponto de comunicação entre camadas adjacentes
     .
     <br><br>
-  2. Encapsulamento e PDUs (Protocol Data Units)
+  2. Encapsulamento e PDUs (Protocol Data Units)<br>
     Questões clássicas pedem para identificar o nome do dado em cada camada durante o processo de encapsulamento (quando o dado desce na origem, ganhando cabeçalhos)
     .
     Aplicação: Mensagem
@@ -49,7 +49,7 @@ RESPOSTA:<br>
     Física: Bits
     .
     <br><br>
-  3. Camada de Transporte: TCP vs. UDP
+  3. Camada de Transporte: TCP vs. UDP<br>
     A comparação entre esses dois protocolos é um dos temas preferidos das bancas
     .
     TCP (Transmission Control Protocol):
@@ -67,7 +67,7 @@ RESPOSTA:<br>
     Uso: Streaming de vídeo/áudio, VoIP, consultas DNS
     .
     <br><br>
-  4. Camada de Rede: Endereçamento e Protocolos de Controle
+  4. Camada de Rede: Endereçamento e Protocolos de Controle<br>
     Foque em como os dados encontram o caminho e como os endereços são geridos.
     IPv4 vs. IPv6: O IPv4 tem 32 bits; o IPv6 tem 128 bits (criado para resolver a escassez de endereços)
     .
@@ -83,7 +83,7 @@ RESPOSTA:<br>
     ICMP: Utilizado para relatar erros e sinais de controle (base do comando ping)
     .
     <br><br>
-  5. Camada de Enlace e Dispositivos
+  5. Camada de Enlace e Dispositivos<br>
     As provas costumam testar se você sabe em qual camada cada equipamento opera
     .
     Roteador: Opera na Camada 3 (Rede). Decide o melhor caminho para o pacote (roteamento)
@@ -93,7 +93,7 @@ RESPOSTA:<br>
     Controle de Acesso ao Meio (MAC): Protocolos como CSMA/CD (usado na Ethernet para detectar colisões) e ALOHA (permite colisões, mas requer retransmissão) são temas comuns
     .
     <br><br>
-    6. Segurança da Informação (Tríade CID)
+    6. Segurança da Informação (Tríade CID)<br>
     Muitas questões focam nos princípios básicos e tipos de ataques
     .
     Tríade CID:
