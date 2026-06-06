@@ -145,44 +145,43 @@ DIFICULDADE COM AS PERGUNTAS: A segunda coisa que eu pedi foi pra ela fazer perg
 <br><br>
 TERCEIRO PROMPT: "faca perguntas baseadas em situacoes problemas"
 
-RESPOSTA: <br>
+RESPOSTA:<br>
 ""
-<br>
-1. Desempenho em Aplicações de Tempo Real<br>
-Situação: Um usuário está jogando uma partida online e percebe que, embora a conexão não caia, o "lag" (latência) está muito alto. Ao mesmo tempo, ele inicia o download de um arquivo grande, que ocorre sem erros, mas de forma mais lenta. Pergunta: Quais protocolos da camada de transporte são mais adequados para cada uma dessas atividades (jogo e download) e por que uma aplicação pode preferir um protocolo que não garante a entrega de todos os pacotes?
-<br>
-<br>
-2. Incidente de Segurança em Transações Financeiras<br>
-Situação: Ao realizar uma compra online, um cliente percebe no extrato bancário que houve duas cobranças idênticas para a mesma transação. Suspeita-se que um invasor interceptou a comunicação. Pergunta: De acordo com a classificação de ataques ativos e passivos, qual tipo de ataque ocorreu nesta situação e qual pilar da tríade CID (Confidencialidade, Integridade e Disponibilidade) foi o alvo principal inicial?
-<br>
-<br>
-3. Falha de Comunicação em Rede Local<br>
-Situação: Um computador novo foi conectado a uma rede local via cabo. Ele recebeu um endereço IP corretamente, mas não consegue se comunicar com nenhum outro dispositivo na mesma rede. O administrador desconfia que o mapeamento entre o endereço lógico e o físico não está ocorrendo. Pergunta: Qual protocolo da camada de rede é responsável por resolver o endereço IP em um endereço MAC para que a placa de rede possa enviar os quadros, e como esse processo funciona via difusão (broadcast)?
-<br>
-<br>
-4. Gestão e Planejamento de Expansão<br>
-Situação: O diretor de uma empresa reclama que a rede sofre paralisações constantes. O administrador da rede monitora o tráfego e nota que a utilização média dos links está em 70%, o que indica que a rede está subdimensionada para a demanda atual. Pergunta: Essa análise de monitoramento e planejamento de carga faz parte de qual área do modelo de gerência FCAPS (Falhas, Configuração, Contabilização, Desempenho e Segurança)?
-<br>
-<br>
-5. Escassez de Endereços IPv4<br>
-Situação: Uma pequena startup possui 50 dispositivos internos (laptops, impressoras, servidores), mas seu provedor de internet forneceu apenas um único endereço IP público válido. Pergunta: Qual técnica da camada de rede permite que todos esses dispositivos acessem a internet simultaneamente usando apenas esse único IP público, e como ela contribui para a segurança da rede interna?
-<br>
-<br>
-6. Interferência e Escolha de Meio Físico<br>
-Situação: Um técnico precisa passar cabos de rede em um galpão industrial onde existem grandes motores elétricos e sistemas de refrigeração que geram forte interferência eletromagnética. Pergunta: Considerando os meios de transmissão guiados, qual tipo de cabo seria o mais recomendado para garantir a integridade do sinal contra interferências (EMI) e ruídos: Par Trançado sem blindagem (UTP), Cabo Coaxial ou Fibra Óptica? Justifique com base nas propriedades físicas do meio.
-<br>
-<br>
-7. Configuração de Rede para Visitantes<br>
-Situação: Uma cafeteria deseja oferecer Wi-Fi gratuito para seus clientes. O dono não quer que os funcionários tenham que configurar manualmente o endereço IP, máscara e gateway de cada smartphone que se conecta à rede. Pergunta: Qual protocolo deve ser implementado para automatizar essa configuração e quais são os quatro parâmetros mínimos que ele geralmente fornece aos hospedeiros (hosts)?
-<br><br>
-8. Conflito de Canais Wi-Fi<br>
-Situação: Em um prédio de escritórios, um usuário reclama que seu Wi-Fi fica instável e desconecta com frequência, embora ele esteja perto do roteador. Ao usar uma ferramenta de análise, ele vê muitas outras redes operando no mesmo canal que a dele. Pergunta: Por que a sobreposição de redes no mesmo canal causa instabilidade e qual seria a recomendação técnica para a escolha dos canais na frequência de 2.4 GHz para minimizar interferências?
-<br><br>
-9. Resolução de Nomes e Navegação<br>
-Situação: Um usuário tenta acessar o site "www.google.com", mas recebe uma mensagem de erro dizendo que o endereço não foi encontrado. No entanto, se ele digita o endereço IP direto no navegador, o site abre normalmente. Pergunta: Qual serviço da camada de aplicação está apresentando falha e como funciona o processo de consulta recursiva e iterativa que ele realiza para encontrar um endereço IP a partir de um nome de domínio?
-<br><br>
-10. Colisões em Meios Compartilhados<br>
-Situação: Em uma rede Ethernet antiga que utiliza um hub (meio compartilhado), o desempenho cai drasticamente quando muitos computadores tentam transmitir dados ao mesmo tempo, resultando em muitas colisões de pacotes. Pergunta: Como o protocolo CSMA/CD atua para tentar reduzir essas colisões e qual é a diferença fundamental entre ele e o protocolo ALOHA original em relação à "escuta" do meio físico?
+    1. Desempenho em Aplicações de Tempo Real<br>
+    Situação: Um usuário está jogando uma partida online e percebe que, embora a conexão não caia, o "lag" (latência) está muito alto. Ao mesmo tempo, ele inicia o download de um arquivo grande, que ocorre sem erros, mas de forma mais lenta. Pergunta: Quais protocolos da camada de transporte são mais adequados para cada uma dessas atividades (jogo e download) e por que uma aplicação pode preferir um protocolo que não garante a entrega de todos os pacotes?
+    <br>
+    <br>
+    2. Incidente de Segurança em Transações Financeiras<br>
+    Situação: Ao realizar uma compra online, um cliente percebe no extrato bancário que houve duas cobranças idênticas para a mesma transação. Suspeita-se que um invasor interceptou a comunicação. Pergunta: De acordo com a classificação de ataques ativos e passivos, qual tipo de ataque ocorreu nesta situação e qual pilar da tríade CID (Confidencialidade, Integridade e Disponibilidade) foi o alvo principal inicial?
+    <br>
+    <br>
+    3. Falha de Comunicação em Rede Local<br>
+    Situação: Um computador novo foi conectado a uma rede local via cabo. Ele recebeu um endereço IP corretamente, mas não consegue se comunicar com nenhum outro dispositivo na mesma rede. O administrador desconfia que o mapeamento entre o endereço lógico e o físico não está ocorrendo. Pergunta: Qual protocolo da camada de rede é responsável por resolver o endereço IP em um endereço MAC para que a placa de rede possa enviar os quadros, e como esse processo funciona via difusão (broadcast)?
+    <br>
+    <br>
+    4. Gestão e Planejamento de Expansão<br>
+    Situação: O diretor de uma empresa reclama que a rede sofre paralisações constantes. O administrador da rede monitora o tráfego e nota que a utilização média dos links está em 70%, o que indica que a rede está subdimensionada para a demanda atual. Pergunta: Essa análise de monitoramento e planejamento de carga faz parte de qual área do modelo de gerência FCAPS (Falhas, Configuração, Contabilização, Desempenho e Segurança)?
+    <br>
+    <br>
+    5. Escassez de Endereços IPv4<br>
+    Situação: Uma pequena startup possui 50 dispositivos internos (laptops, impressoras, servidores), mas seu provedor de internet forneceu apenas um único endereço IP público válido. Pergunta: Qual técnica da camada de rede permite que todos esses dispositivos acessem a internet simultaneamente usando apenas esse único IP público, e como ela contribui para a segurança da rede interna?
+    <br>
+    <br>
+    6. Interferência e Escolha de Meio Físico<br>
+    Situação: Um técnico precisa passar cabos de rede em um galpão industrial onde existem grandes motores elétricos e sistemas de refrigeração que geram forte interferência eletromagnética. Pergunta: Considerando os meios de transmissão guiados, qual tipo de cabo seria o mais recomendado para garantir a integridade do sinal contra interferências (EMI) e ruídos: Par Trançado sem blindagem (UTP), Cabo Coaxial ou Fibra Óptica? Justifique com base nas propriedades físicas do meio.
+    <br>
+    <br>
+    7. Configuração de Rede para Visitantes<br>
+    Situação: Uma cafeteria deseja oferecer Wi-Fi gratuito para seus clientes. O dono não quer que os funcionários tenham que configurar manualmente o endereço IP, máscara e gateway de cada smartphone que se conecta à rede. Pergunta: Qual protocolo deve ser implementado para automatizar essa configuração e quais são os quatro parâmetros mínimos que ele geralmente fornece aos hospedeiros (hosts)?
+    <br><br>
+    8. Conflito de Canais Wi-Fi<br>
+    Situação: Em um prédio de escritórios, um usuário reclama que seu Wi-Fi fica instável e desconecta com frequência, embora ele esteja perto do roteador. Ao usar uma ferramenta de análise, ele vê muitas outras redes operando no mesmo canal que a dele. Pergunta: Por que a sobreposição de redes no mesmo canal causa instabilidade e qual seria a recomendação técnica para a escolha dos canais na frequência de 2.4 GHz para minimizar interferências?
+    <br><br>
+    9. Resolução de Nomes e Navegação<br>
+    Situação: Um usuário tenta acessar o site "www.google.com", mas recebe uma mensagem de erro dizendo que o endereço não foi encontrado. No entanto, se ele digita o endereço IP direto no navegador, o site abre normalmente. Pergunta: Qual serviço da camada de aplicação está apresentando falha e como funciona o processo de consulta recursiva e iterativa que ele realiza para encontrar um endereço IP a partir de um nome de domínio?
+    <br><br>
+    10. Colisões em Meios Compartilhados<br>
+    Situação: Em uma rede Ethernet antiga que utiliza um hub (meio compartilhado), o desempenho cai drasticamente quando muitos computadores tentam transmitir dados ao mesmo tempo, resultando em muitas colisões de pacotes. Pergunta: Como o protocolo CSMA/CD atua para tentar reduzir essas colisões e qual é a diferença fundamental entre ele e o protocolo ALOHA original em relação à "escuta" do meio físico?
 
 ""
 
