@@ -1,12 +1,12 @@
 # miniguia-estudos-notebooklm
 Um guia de estudos redes de computadores criado com o notebooklm.
 
-Eu escolhi Fundamentos de Redes de Computadores, uma matéria da faculdade, que estou estudando esse semestre e que mesmo tendo o material disponibilizado pela faculdade, não estava conseguindo compreender a matéria, por isso resolvi que esse seria um dos meus primeiros cadernos temáticos do noteboolm. Pelo fato dessa ia conseguir gerar resumos,
-vídeos, questões e mapa mentais,meu principal objetivo foi utilizar dessas possibilidades para testar o que eu já sabia do assunto, entender e absorver o que eu ainda tinha dúvida tanto para a prova, quanto para meu conhecimento futuro.
+Eu escolhi Fundamentos de Redes de Computadores, uma matéria da faculdade, que estou estudando esse semestre e que mesmo tendo o material disponibilizado pela faculdade, não estava conseguindo compreender a matéria. Por isso, resolvi que esse seria um dos meus primeiros cadernos temáticos do noteboolm. Pelo fato de essa IA conseguir gerar resumos,
+Vídeos, questões e mapas mentais, meu principal objetivo foi utilizar dessas possibilidades para testar o que eu já sabia do assunto, entender e absorver o que eu ainda tinha dúvida tanto para a prova, quanto para meu conhecimento futuro.
 
 FONTES:<br>
 .Pdf's que cada tema da matéria possui;<br>
-.vídeos do curso de redes de computadores do professor Gustavo Guanabara:<br>
+Vídeos do curso de redes de computadores do professor Gustavo Guanabara:<br>
 https://www.youtube.com/watch?v=q65kHIvtWxg&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&index=8&pp=iAQB0gcJCSgLAYcqIYzv;
 https://www.youtube.com/watch?v=ee5htpGdWHY&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&index=9&pp=iAQB0gcJCSgLAYcqIYzv;
 https://www.youtube.com/watch?v=_826vVEokj8&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&index=6&pp=iAQB
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=_826vVEokj8&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdT
 
 ENGENHARIA DE PROMPTS:
 
-PRIMEIRO PROMPT: " então preciso que você selecione os assuntos mais abordados nas provas de redes de computadores e também faça um resumo claro e focado nas perguntas que mais caem nessas provas de redes de computadores".
+PRIMEIRO PROMPT: "Então preciso que você selecione os assuntos mais abordados nas provas de redes de computadores e também faça um resumo claro e focado nas perguntas que mais caem nessas provas de redes de computadores".
 
 RESPOSTA:<br>
 
@@ -35,7 +35,7 @@ RESPOSTA:<br>
     Interface: Ponto de comunicação entre camadas adjacentes
     .
     <br><br>
-  2. Encapsulamento e PDUs (Protocol Data Units)<br>
+2. Encapsulamento e PDUs (Protocol Data Units)<br>
     Questões clássicas pedem para identificar o nome do dado em cada camada durante o processo de encapsulamento (quando o dado desce na origem, ganhando cabeçalhos)
     .
     Aplicação: Mensagem
@@ -62,12 +62,12 @@ RESPOSTA:<br>
     UDP (User Datagram Protocol):
     Não orientado à conexão: Envia dados sem aviso prévio ("melhor esforço")
     .
-    Rápido: Sem o overhead de confirmações, ideal para aplicações que toleram perdas mas não atrasos
+    Rápido: Sem o overhead de confirmações, ideal para aplicações que toleram perdas, mas não atrasos.
     .
     Uso: Streaming de vídeo/áudio, VoIP, consultas DNS
     .
     <br><br>
-  4. Camada de Rede: Endereçamento e Protocolos de Controle<br>
+4. Camada de Rede: Endereçamento e Protocolos de Controle.<br>
     Foque em como os dados encontram o caminho e como os endereços são geridos.
     IPv4 vs. IPv6: O IPv4 tem 32 bits; o IPv6 tem 128 bits (criado para resolver a escassez de endereços)
     .
@@ -83,7 +83,7 @@ RESPOSTA:<br>
     ICMP: Utilizado para relatar erros e sinais de controle (base do comando ping)
     .
     <br><br>
-  5. Camada de Enlace e Dispositivos<br>
+5. Camada de Enlace e Dispositivos<br>
     As provas costumam testar se você sabe em qual camada cada equipamento opera
     .
     Roteador: Opera na Camada 3 (Rede). Decide o melhor caminho para o pacote (roteamento)
@@ -117,14 +117,14 @@ RESPOSTA:<br>
 <br>
 
 ANÁLISE DA RESPOSTA RECEBIDA:<br>
-A primeira coisa que eu solicitei para a ia foi uma análise dos assuntos que mais aparecem nas questões de redes de computadores e fazer um resumo, ela me apresentou somente 6 tópicos de assuntos de redes, eu não havia especificado a qauntidade. O resumo foi bem direto e claro e muito bem explicativo, com eles eu  conseguir entender melhor algumas dúvidas que antes eu tinha principlamente sobre a Camada de Rede.
+A primeira coisa que eu solicitei para a ia foi uma análise dos assuntos que mais aparecem nas questões de redes de computadores e fazer um resumo, ela me apresentou somente 6 tópicos de assuntos de redes, eu não havia especificado a qauntidade. O resumo foi bem direto e claro e muito bem explicativo, com eles eu  conseguir entender melhor algumas dúvidas que antes eu tinha principalmente sobre a Camada de Rede.
 <br>
 <br>
 
 SEGUNDO PROMPT: "faça 10 perguntas baseadas nos tópicos que você me apresentou"
 
 RESPOSTA:<br>
-  ""
+  "" <br>
   Com base nos temas essenciais de redes de computadores discutidos e no material fornecido, aqui estão 10 perguntas fundamentais para o seu estudo, focadas no que costuma ser cobrado em        provas:Perguntas de Revisão
   <br>
   
@@ -163,16 +163,17 @@ RESPOSTA:<br>
   
 <br>
 <br>
-ANÁLISE DA RESPOSTA RECEBIDA:<br><br>
---DIFICULDADE COM AS PERGUNTAS:<br>
-A segunda coisa que eu pedi foi pra ela fazer perguntas baseadas no resumo que ela me apresentou, só que dessa vez eu especifiquei uma quantidade exata, eu percebi que as perguntas que ela faz são voltadas mais para fazer a pessoa decorar, eu estava esperando perguntas baseadas em situações problemas, então no terceiro prompt, eu especifiquei o tipo de pergunta que eu gostaria.
+ANÁLISE DA RESPOSTA RECEBIDA:
+<br>
+    -DIFICULDADE COM AS PERGUNTAS:<br>
+    A segunda coisa que eu pedi foi pra ela fazer perguntas baseadas no resumo que ela me apresentou, só que dessa vez eu especifiquei uma quantidade exata, eu percebi que as perguntas que        ela faz são voltadas mais para fazer a pessoa decorar, eu estava esperando perguntas baseadas em situações problemas, então no terceiro prompt, eu especifiquei o tipo de pergunta que eu       gostaria.
 <br>
 <br>
 
 TERCEIRO PROMPT: "faca perguntas baseadas em situacoes problemas"
 
 RESPOSTA:<br>
-""
+"" <br>
     1. Desempenho em Aplicações de Tempo Real<br>
     Situação: Um usuário está jogando uma partida online e percebe que, embora a conexão não caia, o "lag" (latência) está muito alto. Ao mesmo tempo, ele inicia o download de um arquivo          grande, que ocorre sem erros, mas de forma mais lenta. Pergunta: Quais protocolos da camada de transporte são mais adequados para cada uma dessas atividades (jogo e download) e por que        uma aplicação pode preferir um protocolo que não garante a entrega de todos os pacotes?
     <br>
@@ -189,7 +190,7 @@ RESPOSTA:<br>
     Situação: O diretor de uma empresa reclama que a rede sofre paralisações constantes. O administrador da rede monitora o tráfego e nota que a utilização média dos links está em 70%, o que      indica que a rede está subdimensionada para a demanda atual. Pergunta: Essa análise de monitoramento e planejamento de carga faz parte de qual área do modelo de gerência FCAPS (Falhas,        Configuração, Contabilização, Desempenho e Segurança)?
     <br>
     <br>
-    5. Escassez de Endereços IPv4<br>
+    5. Escassez de endereços IPv4<br>
     Situação: Uma pequena startup possui 50 dispositivos internos (laptops, impressoras, servidores), mas seu provedor de internet forneceu apenas um único endereço IP público válido.             Pergunta: Qual técnica da camada de rede permite que todos esses dispositivos acessem a internet simultaneamente usando apenas esse único IP público, e como ela contribui para a segurança     da rede interna?
     <br>
     <br>
@@ -211,12 +212,14 @@ RESPOSTA:<br>
     <br>
     10. Colisões em Meios Compartilhados<br>
     Situação: Em uma rede Ethernet antiga que utiliza um hub (meio compartilhado), o desempenho cai drasticamente quando muitos computadores tentam transmitir dados ao mesmo tempo, resultando     em muitas colisões de pacotes. Pergunta: Como o protocolo CSMA/CD atua para tentar reduzir essas colisões e qual é a diferença fundamental entre ele e o protocolo ALOHA original em            relação à "escuta" do meio físico?
-<br><br>
-
-ANÁLISE DA RESPOSTA RECEBIDA:<br><br>
-Dessa vez a ia cumpriu com o que eu solicitei, após eu específicar o tipo de pergunta que eu gostaria
+    <br>
+    <br>
 ""
+ANÁLISE DA RESPOSTA RECEBIDA:<br>
+Nesse terceiro prompt, eu especifiquei o tipo de pergunta que eu gostaria e ela cumpriu com o que foi solicitado, entregando perguntas com situações comuns que podem ocorrer no dia à dia. Isso me ajudou a entender melhor o assunto.
+<br>
 
-
-
-
+CONJUNTO DE PROMPTS REUTILIZÁVEIS: <br>
+1."Então preciso que você selecione os assuntos mais abordados nas provas de redes de computadores e também faça um resumo claro e focado nas perguntas que mais caem nessas provas de redes de computadores".<br>
+2."faça 10 perguntas baseadas nos tópicos que você me apresentou"<br>
+3."faca perguntas baseadas em situacoes problemas"<br>
